@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class papa{
-	public static void main(args[]){
+	public static void main(String args[]){
 		int cantPapa = 0;
 		cantPapa = cantPapas();
 		System.out.println("Una papa es color amarillo");
